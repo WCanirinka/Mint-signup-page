@@ -139,6 +139,7 @@ form .field .submit{
     display: block;
     width: 100%;
     background:#0077C5;
+    color: white;
     border: 1px solid #4c4c4c;
     border-radius: 5px;
     padding: 12px;
