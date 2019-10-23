@@ -7,14 +7,11 @@ ul{
     padding: 0px;
     list-style: none;
 }
-
 body{
     background: #ECEEF1;
     padding: 0px 15px 30px 15px;
     font-size:16px;
-    
 }
-
 .navbar{
     display: flex;
     justify-content: flex-end;
@@ -33,7 +30,7 @@ body{
 .nav-link div:first-child{
     margin-bottom: 5px;
 }
-button.sign-in{
+.sign-in-button{
     padding: 10px 30px;
     background:#0077C5;
     color:#fff;
@@ -46,15 +43,12 @@ button.sign-in .icon{
 }
 button.sign-in a{
     color:#fff;
-    
     margin:5px;
 }
-
 main,.footer{
     max-width: 400px;
     margin:0px auto;
 }
-
 .top{
     margin-top:60px;
     font-size: 20px;
@@ -71,11 +65,9 @@ form{
     margin:auto;
 }
 .top ul{
-    
     display: flex;
     justify-content: ;
     align-items: center;
-    
 }
 .top ul li{
     display: flex;
@@ -98,15 +90,16 @@ form fieldset{
 form legend{
     text-align: center;
 }
-form legend h2{
+form .form-title{
     font-weight: 500;
-    margin: 0px 0px 10px 0px;    
+    margin: 0px 0px 10px 0px; 
+    text-align: center;   
 }
-form legend .p1{
+form .legend .p1{
     margin-bottom:0px;
     font-size: 14px;
 }
-form legend .p2{
+form .legend .p2{
     margin-top:5px;
 }
 form .field{
@@ -146,7 +139,6 @@ form .field .submit{
     display: block;
     width: 100%;
     background:#0077C5;
-    
     border: 1px solid #4c4c4c;
     border-radius: 5px;
     padding: 12px;

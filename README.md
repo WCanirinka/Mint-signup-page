@@ -4,7 +4,7 @@
 > We've learned HTML Form Basics while doing remote collaboration.
 
 ## Live Demo
-***<a href="https://genzaraki.github.io/youtube_video_player_page/"> Live Demo</a>***
+***<a href="https://wcanirinka.github.io/Mint-signup-page/"> Live Demo</a>***
 
 
 **Technical Tools**
